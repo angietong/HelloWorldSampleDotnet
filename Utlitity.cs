@@ -13,6 +13,9 @@ namespace HelloWorldSampleDotnet
             Console.WriteLine("Hello World for Jenkins CI");
             //Console.ReadLine();
         }
-
+        public static int Add(int x, int y)
+        {
+            return (x + y);
+        }
     }
 }
