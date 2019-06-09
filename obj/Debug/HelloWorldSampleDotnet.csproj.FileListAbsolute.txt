@@ -1,0 +1,6 @@
+D:\HelloWorldSampleDotnet\bin\Debug\HelloWorldSampleDotnet.exe.config
+D:\HelloWorldSampleDotnet\bin\Debug\HelloWorldSampleDotnet.exe
+D:\HelloWorldSampleDotnet\bin\Debug\HelloWorldSampleDotnet.pdb
+D:\HelloWorldSampleDotnet\obj\Debug\HelloWorldSampleDotnet.csprojResolveAssemblyReference.cache
+D:\HelloWorldSampleDotnet\obj\Debug\HelloWorldSampleDotnet.exe
+D:\HelloWorldSampleDotnet\obj\Debug\HelloWorldSampleDotnet.pdb
