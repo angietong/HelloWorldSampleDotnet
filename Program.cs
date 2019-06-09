@@ -13,7 +13,7 @@ namespace HelloWorldSampleDotnet
             Utlitity.WelcomeMessage();
             int sum = Utlitity.Add(2,3);
             Console.WriteLine("The Addition of Two Numbers:" + sum);
-            //Console.ReadLine();
+            Console.ReadLine();
         }
     }
 }
